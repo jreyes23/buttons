@@ -1,0 +1,17 @@
+{
+  "name": "buttons",
+  "homepage": "https://github.com/jreyes23/buttons",
+  "authors": [
+    "judiel <jreyes@enobasistemas.com>"
+  ],
+  "description": "",
+  "main": "buttons.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
